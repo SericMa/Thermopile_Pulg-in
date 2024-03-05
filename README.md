@@ -1,2 +1,4 @@
 # Thermopile_Plug-in
-a Plug-in software for thermopile software setup
+Plug-in Software for thermopile software setup
+
+    The node version needs to be specific to V13.14.0. 
